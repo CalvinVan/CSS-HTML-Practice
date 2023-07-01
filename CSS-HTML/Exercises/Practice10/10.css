@@ -1,0 +1,67 @@
+p{
+  margin-top:0;
+  margin-bottom:0;
+  font-family: Arial;
+
+}
+
+
+.profile{
+  width:180px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.8);
+  display:inline-block;
+  vertical-align:top;
+  margin-right:15px;
+
+}
+
+.pfp{
+  width:180px;
+  height:180px;
+}
+
+.info{
+  margin-left:8px;
+}
+
+.name{
+  font-weight: bold;
+  font-size:16px;
+}
+
+
+      
+.mutual-pfp{
+  width:30px;
+  height:30px;
+  border-radius:15px;
+}
+
+.mutual-pfp,
+.num-mutuals{
+  display:inline-block;
+  margin-top:8px;
+  margin-bottom:8px;
+  vertical-align:middle;
+}
+
+.num-mutuals{
+  color:gray;
+  font-size:14px;
+}
+
+.add-button{
+  color:white;
+  background-color: rgb(44, 113, 203);
+  padding-top:8px;
+  padding-bottom:8px;
+  padding-left:8px;
+  padding-right:8px;
+  font-size:14px;
+  font-weight: bold;
+  margin-top:5px;
+  margin-bottom:8px;
+  border:none;
+  border-radius:4px;
+  cursor:pointer;
+}

@@ -1,0 +1,50 @@
+.div{
+  width:150px;
+  box-shadow: 0 1px 3px rgba(0,0,0,.5);
+  margin-left:20px;
+  height:250px;
+  display:inline-block;
+}
+
+.div2{
+  display:inline-block;
+}
+
+.div3{
+  display:inline-block;
+}
+
+p{
+  margin-top:5px;
+  margin-bottom:5px;
+  font-family:Arial;
+  margin-left:5px;
+}
+
+.name{
+  font-weight:bold;
+  font-size:16px;
+}
+
+.mutual{
+  font-size:14px;
+  color:gray;
+}
+
+.pfp{
+  width:150px;
+  height:150px;
+}
+
+.add{
+  color:white;
+  background-color: rgba(0, 76, 255, 0.989);
+  margin-left:5px;
+  border:none;
+  border-radius:5px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:10px;
+  padding-bottom:10px;
+  cursor:pointer;
+}

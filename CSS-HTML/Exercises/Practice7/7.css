@@ -1,0 +1,35 @@
+div{
+  text-align:center;
+}
+
+.logo{
+  width:300px;
+  height:200px;
+  margin-bottom:16px;
+  object-fit: contain;
+}
+
+.search-bar{
+  border:none;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+  font-size:16px;
+  width:600px;
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  margin-bottom:10px;
+  border-radius:10px;
+}
+
+button{
+  cursor:pointer;
+  background:rgb(210, 210, 210);
+  border:none;
+  padding-left:8px;
+  padding-right:8px;
+  padding-top:12px;
+  padding-bottom:12px;
+  margin-top:15px;
+  margin-right:8px;
+  
+}

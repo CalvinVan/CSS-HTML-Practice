@@ -1,0 +1,75 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+  
+}
+
+.container{
+  width:400px;
+  box-shadow:0 0 3px rgba(0,0,0,.5);
+  border-radius: 3px;
+  padding-top: 10px;
+  padding-left:10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.inbox-text{
+  color: gray;
+  font-family: Arial; 
+  margin-bottom: 20px;
+
+}
+
+.email{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.img-container{
+  margin-right:10px;
+}
+
+.info{
+  flex:1; 
+}
+
+.row1{
+  display:flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.pfp{
+  width:50px;
+  height:50px;
+  border-radius: 25px;
+
+}
+
+.header{
+  font-weight: bold;
+  font-family: Arial;
+}
+
+.time{
+  color:gray;
+  font-family: Arial;
+}
+
+.subheader{
+  font-family:Arial;
+  font-weight: bold;
+}
+
+.message{
+  color:gray;
+  font-family: Arial;
+}
+
