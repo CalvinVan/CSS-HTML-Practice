@@ -4,7 +4,7 @@
 The following repository includes practice exercises and a youtube front-page copy created while following a youtube video called HTML &amp; CSS Full Course by SuperSimpleDev: https://www.youtube.com/watch?v=G3e-cpL7ofc
 
 # What I've Learned
-I have learned how a general idea on how to implement visual elements for websites using HTML and CSS elements such as paragraph, stylesheets, css stying, text stles, grids and flexboxes, css positioning such as relative and absolute, and element design.
+I have learned how to implement visual elements for websites using HTML and CSS elements such as paragraph, stylesheets, css stying, text stles, grids and flexboxes, css positioning such as relative and absolute, and element design.
 
 # Exercise Screenshots
 
